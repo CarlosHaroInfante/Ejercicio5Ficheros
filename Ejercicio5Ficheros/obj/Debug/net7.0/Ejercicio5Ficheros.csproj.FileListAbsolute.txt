@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\bin\Debug\net7.0\Ejercicio5Ficheros.exe
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\bin\Debug\net7.0\Ejercicio5Ficheros.deps.json
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\bin\Debug\net7.0\Ejercicio5Ficheros.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\bin\Debug\net7.0\Ejercicio5Ficheros.dll
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\bin\Debug\net7.0\Ejercicio5Ficheros.pdb
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\obj\Debug\net7.0\Ejercicio5Ficheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\obj\Debug\net7.0\Ejercicio5Ficheros.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\obj\Debug\net7.0\Ejercicio5Ficheros.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\obj\Debug\net7.0\Ejercicio5Ficheros.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\obj\Debug\net7.0\Ejercicio5Ficheros.dll
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\obj\Debug\net7.0\refint\Ejercicio5Ficheros.dll
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\obj\Debug\net7.0\Ejercicio5Ficheros.pdb
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\obj\Debug\net7.0\Ejercicio5Ficheros.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\Ejercicio5Ficheros\obj\Debug\net7.0\ref\Ejercicio5Ficheros.dll
